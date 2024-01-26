@@ -1,4 +1,4 @@
-# Trabajo IntegradorAlquileres
+# Trabajo Integrador Alquileres
 Implementacion de sistema de alquileres de bicicletas. (Backend)
 
 Este proyecto es la implementacion de un sistema de alquiler de bicicletas para una ciudad. compuesto por microservicios que expongan una API REST con diversas funcionalidades
